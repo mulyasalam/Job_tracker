@@ -1,11 +1,416 @@
 [
   {
-    "company": "asdas",
-    "title": "assdas",
-    "link": "asdasd",
+    "company": "Dalli Group",
+    "title": "Initiativbewerbung IT",
+    "link": "https://karriere.stella-hr.de/dalligroup/job/Stolberg-Initiativbewerbung-Praktikant-Stolberg-%28mwd%29-NW-52224/606078801/",
     "status": "Rejected",
-    "notes": "asdasd",
-    "date_added": "2025-09-18 13:47",
-    "last_updated": "2025-09-18 13:47"
+    "notes": "",
+    "date_added": "2025-10-16 00:14",
+    "last_updated": "2025-10-16 00:14"
+  },
+  {
+    "company": "Utimaco",
+    "title": "Workingstudent IT-Internal",
+    "link": "https://utimaco.com/careers/working-student-internal-it",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-03 13:57",
+    "last_updated": "2025-11-03 13:57"
+  },
+  {
+    "company": "Siemens Energy",
+    "title": "Pflichtpraktikant (w/m/d) im Bereich Informatik",
+    "link": "https://jobs.siemens-energy.com/en_US/Jobs/FolderDetail?folderId=269658&source=LinkedIn&sourceType=PREMIUM_POST_SITE",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-10-16 00:19",
+    "last_updated": "2025-10-16 00:19"
+  },
+  {
+    "company": "Ford",
+    "title": "Praktikant (d/w/m) Einsatz von KI f\u00fcr Lagerauslastung und Belegung - Untersuchung",
+    "link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/52384?utm_medium=jobboard&utm_source=linkedin",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-10-16 12:52",
+    "last_updated": "2025-10-16 12:52"
+  },
+  {
+    "company": "Simon Kucher",
+    "title": "Praktikum Associate Consultant Data Science (m/w/d)",
+    "link": "https://simon-kucher.csod.com/ux/ats/careersite/6/home/requisition/2527?c=simon-kucher&lang=en-US&source=LinkedIn",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-13 14:47",
+    "last_updated": "2025-11-13 14:47"
+  },
+  {
+    "company": "BMW",
+    "title": "Praktikant Qualit\u00e4t E-Mobilit\u00e4t & Hochvoltspeicher (w/m/x)",
+    "link": "https://www.bmwgroup.jobs/de/de.html",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-10-16 13:17",
+    "last_updated": "2025-10-16 13:17"
+  },
+  {
+    "company": "BMW",
+    "title": "Praktikant Data Science und Ablaufsimulation (w/m/x)",
+    "link": "https://www.bmwgroup.jobs/de/de.html",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-10-16 13:20",
+    "last_updated": "2025-10-16 13:20"
+  },
+  {
+    "company": "BMW",
+    "title": "Praktikant Softwareentwicklung (w/m/x)",
+    "link": "https://www.bmwgroup.jobs/de/de.html",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-11 00:02",
+    "last_updated": "2025-11-11 00:02"
+  },
+  {
+    "company": "Mercedes Benz",
+    "title": "Praktikant*in KI und AI Programmierung",
+    "link": "https://jobs.mercedes-benz.com/enUS/praktikantin-ki-und-ai-programmierung-183039-MER0003T6Y",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-07 10:41",
+    "last_updated": "2025-11-07 10:41"
+  },
+  {
+    "company": "Mercedes Benz",
+    "title": "Praktikant*in IT",
+    "link": "https://jobs.mercedes-benz.com/enUS/praktikantin-it-182270-MER0003SNZ",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-10-16 15:01",
+    "last_updated": "2025-10-16 15:01"
+  },
+  {
+    "company": "Siemens",
+    "title": "Mandatory Internship \u2013 Code Models: Synthetic Data Generation & RL Post-Training",
+    "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/478985",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-10-27 11:18",
+    "last_updated": "2025-10-27 11:18"
+  },
+  {
+    "company": "Siemens",
+    "title": "Mandatory internship Bereich Generative AI",
+    "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/474325",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-10-27 11:17",
+    "last_updated": "2025-10-27 11:17"
+  },
+  {
+    "company": "Siemens",
+    "title": "Pflichtpraktikum: Softwareentwicklung f\u00fcr KI-Anwendungen",
+    "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/481037",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-10-27 11:18",
+    "last_updated": "2025-10-27 11:18"
+  },
+  {
+    "company": "Keysight Technologies",
+    "title": "Working student (m/f/d) computer science, focus on Learning Products",
+    "link": "linkedin",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-10-27 11:23",
+    "last_updated": "2025-10-27 11:23"
+  },
+  {
+    "company": "INTRAVIS",
+    "title": "Studentische Hilfskraft / Praktikum - Allgemeine Softwareentwicklung (all genders)",
+    "link": "https://intravis-jobs.dvinci-hr.com/de/jobs/10192/studentische-hilfskraft-praktikum-allgemeine-softwareentwicklung-all-genders",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-03 19:30",
+    "last_updated": "2025-11-03 19:30"
+  },
+  {
+    "company": "EY",
+    "title": "Werkstudent Softwareentwicklung - Business Technology (w/m/d)",
+    "link": "https://jobsgermany.ey.com/studentin/offer/werkstudent-softwareentwicklung-bus/48b4cad5-669e-421f-b322-6b0f88b6a580",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-10-29 00:32",
+    "last_updated": "2025-10-29 00:32"
+  },
+  {
+    "company": "Porsche",
+    "title": "Praktikum Car-IT DevTestOps",
+    "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18517",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-20 15:15",
+    "last_updated": "2025-11-20 15:15"
+  },
+  {
+    "company": "Porsche",
+    "title": "Praktikum Connect & Infotainment Systems Engineering",
+    "link": "https://jobs.porsche.com/index.php?ac=jobad&id=18467",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-10-27 13:21",
+    "last_updated": "2025-10-27 13:21"
+  },
+  {
+    "company": "Porsche",
+    "title": "Praktikant (m/w/d) IT Finance & Business Intelligence",
+    "link": "https://jobs.porsche.com/index.php?ac=jobad&id=16362",
+    "status": "Interview",
+    "notes": "Besprechungs-ID: 358 190 610 607 1\n\nPasscode: MR2tc23M",
+    "date_added": "2025-11-07 10:40",
+    "last_updated": "2025-11-07 10:40"
+  },
+  {
+    "company": "Porsche",
+    "title": "Praktikum im IT-Qualit\u00e4tsmanagement",
+    "link": "https://jobs.porsche.com/index.php?ac=jobad&id=17968",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-10-27 13:39",
+    "last_updated": "2025-10-27 13:39"
+  },
+  {
+    "company": "Deloitte",
+    "title": "Praktikant AI & Data Strategy (m/w/d)",
+    "link": "https://job.deloitte.com/job-praktikant-ai-data-strategy-mwd-_48992?utm_source=linkedin&utm_medium=jobad&utm_campaign=1&utm_content=ad::1238618__k::1__p::LI-MS__b::1__j::48992__ex::92161__pid::auto_c57_j48992_d20251022&src=JB-12762",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-07 10:40",
+    "last_updated": "2025-11-07 10:40"
+  },
+  {
+    "company": "Deloitte",
+    "title": "Praktikant / Werkstudent - Google Cloud Alliance (m/w/d)",
+    "link": "https://de-job.deloitte.com/careers?pid=563705887819990&Entry%20Level=student&domain=deloitte.de&sort_by=relevance&hl=de&triggerGoButton=false&triggerGoButton=true",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-07 10:40",
+    "last_updated": "2025-11-07 10:40"
+  },
+  {
+    "company": "Studyflix",
+    "title": "Praktikum E-Learning K\u00fcnstliche Intelligenz (m/w/d)",
+    "link": "https://join.com/companies/studyflix/15095007-praktikum-e-learning-kuenstliche-intelligenz-m-w-d?pid=e65242534431eadcb0c9",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-03 19:00",
+    "last_updated": "2025-11-03 19:00"
+  },
+  {
+    "company": "nextAudit",
+    "title": "Praxissemester (w/m/d) Softwareentwickler - Vue.js",
+    "link": "https://join.com/companies/next-audit/15076000-praxissemester-w-m-d-softwareentwickler-vue-js?pid=e65242534431eadcb0c9",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-03 19:07",
+    "last_updated": "2025-11-03 19:07"
+  },
+  {
+    "company": "ExpressVPN",
+    "title": "Working Student \u2013 Manual App Testing",
+    "link": "https://job-boards.greenhouse.io/expressvpn/jobs/8228530002",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-07 10:38",
+    "last_updated": "2025-11-07 10:38"
+  },
+  {
+    "company": "FEV Consulting",
+    "title": "Student Worker AI Transformation and Process Automation (m/f/d)",
+    "link": "https://career.fev.com/en/p/en/jobs/90573/form",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-17 14:28",
+    "last_updated": "2025-11-17 14:28"
+  },
+  {
+    "company": "K3",
+    "title": "Praktikum als PHP Entwickler (m/w)",
+    "link": "https://www.k3-innovationen.de/digitalagentur/karriere/praktikum-als-php-entwickler-m-w",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-13 14:48",
+    "last_updated": "2025-11-13 14:48"
+  },
+  {
+    "company": "CAE",
+    "title": "Werkstudent/in (m/w/d) im Bereich Softwareentwicklung",
+    "link": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Stolberg/Studentische-Hilfkraft--m-w-d--PMO-Planungstool-Entwicklung_117494",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-07 10:42",
+    "last_updated": "2025-11-07 10:42"
+  },
+  {
+    "company": "PwC",
+    "title": "Praktikum IT Consulting - Financial Services (w/m/d)",
+    "link": "https://jobs.pwc.de/de/de/apply?jobSeqNo=PWFPGKGB978EXTERNALENDE&utm_source=linkedin&igbTracker=838327654&step=1&stepname=username",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-17 14:27",
+    "last_updated": "2025-11-17 14:27"
+  },
+  {
+    "company": "Telkom",
+    "title": "Internship / Flexship Data Science",
+    "link": "https://growthhub.telekom.com/careers?domain=telekom-growthhub.com&hl=&start=0&location=Germany&pid=563465370367120&sort_by=match&filter_include_remote=0&filter_seniority=0",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-13 15:12",
+    "last_updated": "2025-11-13 15:12"
+  },
+  {
+    "company": "Telkom",
+    "title": "Praktikum Data Science - Finance",
+    "link": "",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-13 15:16",
+    "last_updated": "2025-11-13 15:16"
+  },
+  {
+    "company": "DocsTelecare",
+    "title": "Werkstudenten (m/w/d), Praktikanten (m/w/d) im Bereich Software Entwicklung",
+    "link": "",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-25 15:19",
+    "last_updated": "2025-11-25 15:19"
+  },
+  {
+    "company": "Oscar",
+    "title": "Praktikum als Junior Consultant (m/w/d) im Bereich Data Strategy / Data Science",
+    "link": "https://oscar.hr4you.org/application/applicantRegisterCvAnalyzerGenerator/upload/282?page_lang=de",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-17 14:27",
+    "last_updated": "2025-11-17 14:27"
+  },
+  {
+    "company": "FEV Consulting",
+    "title": "Abschlussarbeiter/Praktikant (m/w/d) im Bereich KI-basierte Unterst\u00fctzung f\u00fcr modellbasierte Funktionsentwicklung",
+    "link": "https://career.fev.com/de/p/de/jobs/90397/abschlussarbeiterpraktikant-mwd-im-bereich-ki-basierte-unterstutzung-fur-modellbasierte-funktionsentwicklung",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-17 14:42",
+    "last_updated": "2025-11-17 14:42"
+  },
+  {
+    "company": "Henkel",
+    "title": "Internship Data & Analytics \u2013 Consumer Brands at Henkel",
+    "link": "https://henkel.csod.com/ux/ats/careersite/1/home/requisition/67701?c=henkel",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-24 10:45",
+    "last_updated": "2025-11-24 10:45"
+  },
+  {
+    "company": "Agrezor International GmbH",
+    "title": "Pflichtpraktikum (m/w/d) im Bereich IT & ERP-Systeme (Schwerpunkt Python & Automatisierung)",
+    "link": "https://join.com/companies/agrezor/15218217-pflichtpraktikum-m-w-d-im-bereich-it-und-erp-systeme-schwerpunkt-python-und-automatisierung",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 15:17",
+    "last_updated": "2025-11-20 15:17"
+  },
+  {
+    "company": "grievy",
+    "title": "K\u00f6ln/Hybrid: (Pflicht-) Praktikum Software Development (m/w/d)",
+    "link": "https://join.com/companies/grievy/15201032-koeln-hybrid-pflicht-praktikum-software-development-m-w-d?pid=e65242534431eadcb0c9",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 15:22",
+    "last_updated": "2025-11-20 15:22"
+  },
+  {
+    "company": "HEAD",
+    "title": "Bewerbung als Praktikant (m/w/d) \u2013 Data Analytics & MLOps (Pflichtpraktikum)",
+    "link": "email",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 15:31",
+    "last_updated": "2025-11-20 15:31"
+  },
+  {
+    "company": "nextAudit",
+    "title": "Praktikum (w/m/d) Softwareentwickler - Vue.js",
+    "link": "https://join.com/companies/next-audit/15219188-praktikum-w-m-d-softwareentwickler-vue-js",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 15:53",
+    "last_updated": "2025-11-20 15:53"
+  },
+  {
+    "company": "Aixtron",
+    "title": "Praktikum IT - Fokus Data / Analytics & AI",
+    "link": "https://www.aixtron.com/de/karriere/stellenangebote/Praktikum%20IT%20-%20Fokus%20Data%20/%20Analytics%20%26%20AI_j13859",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 16:06",
+    "last_updated": "2025-11-20 16:06"
+  },
+  {
+    "company": "PwC",
+    "title": "Praktikum Data & AI (w/m/d)",
+    "link": "https://jobs.pwc.de/de/en/job/1645/Praktikum-Data-AI-w-m-d",
+    "status": "Rejected",
+    "notes": "",
+    "date_added": "2025-11-25 15:17",
+    "last_updated": "2025-11-25 15:17"
+  },
+  {
+    "company": "Servicenow",
+    "title": "Intern - Associate Software Engineer",
+    "link": "https://careers.servicenow.com/jobs/744000090342035/intern-associate-software-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+    "status": "Interview",
+    "notes": "",
+    "date_added": "2025-11-25 15:34",
+    "last_updated": "2025-11-25 15:34"
+  },
+  {
+    "company": "deloitte",
+    "title": "Praktikant / Werkstudent Data Analytics - Financial Services Industry (m/w/d)",
+    "link": "https://job.deloitte.com/job-praktikant-werkstudent-data-analytics-financial-services-industry-mwd-_48655?utm_source=linkedin&utm_medium=jobad&utm_campaign=1&utm_content=ad::1226836__k::1__p::LI-MS__b::1__j::48655__ex::0__pid::auto_c57_j48655_d20250602&src=JB-12762",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 20:34",
+    "last_updated": "2025-11-20 20:34"
+  },
+  {
+    "company": "BCG",
+    "title": "Working Student \u2013Business\u202fIntelligence (all genders)",
+    "link": "https://careers.bcg.com/global/en/job/BCG1US55928EXTERNALENGLOBAL/Working-Student-Business-Intelligence-all-genders?utm_source=linkedin&utm_medium=phenom-feeds&Source+=LinkedIn+Job+Board",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 20:53",
+    "last_updated": "2025-11-20 20:53"
+  },
+  {
+    "company": "Henkel",
+    "title": "Internship IT Project Portfolio Management and Controlling",
+    "link": "https://henkel.csod.com/ux/ats/careersite/1/home/requisition/76841?c=henkel&sq=25086661",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-20 21:09",
+    "last_updated": "2025-11-20 21:09"
+  },
+  {
+    "company": "Mintano",
+    "title": "Pflichtpraktikum Software Entwicklung (m/ w/ d) - Web & App Development",
+    "link": "https://join.com/companies/mintano/15182595-pflichtpraktikum-software-entwicklung-m-w-d-web-und-app-development",
+    "status": "Applied",
+    "notes": "",
+    "date_added": "2025-11-21 11:54",
+    "last_updated": "2025-11-21 11:54"
   }
 ]

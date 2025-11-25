@@ -93,20 +93,30 @@ class GUI:
         self.tree_frame = ttk.Frame(self.scrollable_frame)
         self.tree_frame.grid(row=10, column=0, columnspan=4, sticky=(tk.W, tk.E, tk.N, tk.S))
         
-        columns = ("company", "title", "status", "date")
+        columns = ("no", "company", "title", "status", "date")
         self.tree = ttk.Treeview(self.tree_frame, columns=columns, show="headings", height=10)
-        
+
         # Define headings
+        self.tree.heading("no", text="No")
         self.tree.heading("company", text="Company")
         self.tree.heading("title", text="Job Title")
         self.tree.heading("status", text="Status")
         self.tree.heading("date", text="Date Added")
-        
+
         # Define columns
+        self.tree.column("no", width=40, anchor="center")
         self.tree.column("company", width=200)
         self.tree.column("title", width=200)
         self.tree.column("status", width=100)
         self.tree.column("date", width=120)
+
+                # Define row colors by status
+        self.tree.tag_configure("status_not_applied", background="white")
+        self.tree.tag_configure("status_applied", background="white")       # applied = white
+        self.tree.tag_configure("status_interview", background="lightblue")  # interview = green
+        self.tree.tag_configure("status_rejected", background="lightcoral")   # rejected = red-ish
+        self.tree.tag_configure("status_offer", background="green")           # offer = yellow-ish
+
         
         # Scrollbar for treeview
         tree_scrollbar = ttk.Scrollbar(self.tree_frame, orient=tk.VERTICAL, command=self.tree.yview)
@@ -182,18 +192,44 @@ class GUI:
             self.tree.delete(item)
         
         # Add applications to treeview
-        for i, app in enumerate(applications):
+        for idx, app in enumerate(applications):
+            row_no = idx + 1  # 1, 2, 3, ...
+
             display_date = app.get("last_updated", app["date_added"])
-            self.tree.insert("", tk.END, values=(
-                app["company"], 
-                app["title"], 
-                app["status"], 
-                display_date
-            ), tags=(i,))
+            status = app.get("status", "Not Applied")
+
+            # Pick a tag for the status color
+            status_lower = status.lower()
+            if status_lower == "applied":
+                status_tag = "status_applied"
+            elif status_lower == "interview":
+                status_tag = "status_interview"
+            elif status_lower == "rejected":
+                status_tag = "status_rejected"
+            else:
+                status_tag = "status_not_applied"
+
+            # tags = (index_tag, color_tag)
+            self.tree.insert(
+                "",
+                tk.END,
+                values=(
+                    row_no,
+                    app["company"],
+                    app["title"],
+                    status,
+                    display_date
+                ),
+                tags=(str(idx), status_tag)
+            )
+
+
     
     def get_selected_application_index(self):
         selected = self.tree.selection()
         if not selected:
             return -1
         item = self.tree.item(selected[0])
-        return item["tags"][0]
+        return int(item["tags"][0])  # first tag = index
+
+
